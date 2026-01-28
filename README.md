@@ -1,2 +1,2 @@
-# TejaswiniGugananthan-AI-Powered-Personal-Finance-Advisor
-TejaswiniGugananthan/AI-Powered-Personal-Finance-Advisor
+# AI-Powered-Personal-Finance-Advisor
+
